@@ -31,6 +31,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 ## Interactive Guides
 
+No content.
 
 <!-- 
 | Topic | Guide |
@@ -39,46 +40,57 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 --> 
 
-No content.
-
-
 
 <br/>
 
 ## Documentation
 
+<!-- No content. -->
+
 | Documentation | Description |
 | --- | --- | 
-| [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/) | Official product documentation for PowerShell |
+| [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/) | Official product documentation for PowerShell. |
+| [Azure PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/) | Official product documentation for Azure PowerShell. |
 
 <br/>
 
 ## Ebooks
 
+<!-- No content. -->
 
 | Title | Author    | Launch date   | URL   |
 | ---   | ---       | ---           | ---   | 
 | Effective Windows PowerShell eBook | Keith Hill's | 2009-03-08 | [Here](https://onedrive.live.com/redir?resid=5A8D2641E0963A97!6929&authkey=!AJdUaNzW7L9yC18&ithint=file%2cpdf)| 
 
 
-No content.
 
 <br/>
 
 ## Blogs
 
+No content.
 
-| Newsletter | Description | 
+<!-- 
+| Blog | Description | 
 | --- | --- | 
 |- - - | - - - | - - - | - - -|
+-->
+
 
 
 <br/>
 
 ## Newsletter
 
+No content.
+
+<!-- 
 | Newsletter | Description | 
 | --- | --- | 
 |- - - | - - - | - - - | - - -|
+-->
+
+
+
 
 <br/>

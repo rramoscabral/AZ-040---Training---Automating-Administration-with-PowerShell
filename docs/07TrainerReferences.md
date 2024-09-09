@@ -23,11 +23,11 @@ has_children: false
 
 ## Learning Path 1: 
 
-<!--
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Understand Windows PowerShell command syntax | [About topics](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about) |
+
 
 <br/>
 
@@ -65,22 +65,25 @@ has_children: false
 
 ## Learning Path 5: Query management information by using Common Information Model and Windows Management Instrumentation
 
-<!--
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Review CIM and WMI | - [Distributed Management Task Force (DMTF)](https://www.dmtf.org/) |
+| Query configuration information by using CIM and WMI | -[Weekend Scripter: The WMI Explorer Tool](https://devblogs.microsoft.com/scripting/weekend-scripter-the-wmi-explorer-tool/) |
+| Query and manipulate repository objects by using CIM and WMI methods |  |
+
 
 
 <br/>
 
 ## Learning Path 6: Working with variables, arrays, and hash tables
 
-<!--
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Use variables in Window PowerShell scripts | | 
+| Manipulate variables in Window PowerShell scripts | | 
+| Work with arrays and hash tables in Window PowerShell scripts | | 
+
 
 
 <br/>
