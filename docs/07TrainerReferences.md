@@ -26,22 +26,20 @@ has_children: false
 
 | Lessons | Notes |
 | --- | ---
-| Understand Windows PowerShell command syntax | [About topics](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about) |
+| Review Windows PowerShell | - [PowerShell 7 cross-platform (Windows, Linux, and macOS)](https://github.com/PowerShell/PowerShell) <br> - [PowerShell in Visual Studio Code](https://code.visualstudio.com/docs/languages/powershell) |
+| Understand Windows PowerShell command syntax | - [About topics](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about) | 
+| Find commands and get help in Windows PowerShell |  - [PowerShell Gallery](https://www.powershellgallery.com/) | 
 
 
 <br/>
 
 ## Learning Path 2: Maintain system administration tasks in Windows PowerShell
 
-
+<!--
 | Lessons | Notes |
 | --- | ---
-| Review Windows PowerShell | - [PowerShell 7 cross-platform (Windows, Linux, and macOS)](https://github.com/PowerShell/PowerShell) <br> - [PowerShell in Visual Studio Code](https://code.visualstudio.com/docs/languages/powershell) |
-| Understand Windows PowerShell command syntax | - [About topics](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about) | 
-| Find commands and get help in Windows PowerShell |  - [PowerShell Gallery](https://www.powershellgallery.com/) | 
-
-
-
+| --- | --- |
+-->
 
 <br/>
 
