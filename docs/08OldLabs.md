@@ -2,7 +2,7 @@
 layout: default
 title: '10961C Hands-on Labs'
 nav_order: 8
-has_children: true
+has_children: false
 ---
 
 # 10961C: Automating Administration with Windows Powershell oficial Hands-on Labs
