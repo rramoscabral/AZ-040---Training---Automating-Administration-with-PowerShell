@@ -21,7 +21,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 1: 
+## Learning Path 1: Get started with Windows PowerShell
 
 
 | Lessons | Notes |
