@@ -26,7 +26,8 @@ has_children: false
 
 | Lessons | Notes |
 | --- | ---
-| Review Windows PowerShell | - [PowerShell 7 cross-platform (Windows, Linux, and macOS)](https://github.com/PowerShell/PowerShell) <br> - [PowerShell in Visual Studio Code](https://code.visualstudio.com/docs/languages/powershell) |
+| Review Windows PowerShell | 
+- [PowerSell Release history](https://learn.microsoft.com/en-us/powershell/scripting/install/powershell-support-lifecycle#release-history) <br> - [PowerShell 7 cross-platform (Windows, Linux, and macOS)](https://github.com/PowerShell/PowerShell) <br> - [PowerShell in Visual Studio Code](https://code.visualstudio.com/docs/languages/powershell) |
 | Understand Windows PowerShell command syntax | - [About topics](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about) | 
 | Find commands and get help in Windows PowerShell |  - [PowerShell Gallery](https://www.powershellgallery.com/) | 
 
