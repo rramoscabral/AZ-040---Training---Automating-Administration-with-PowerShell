@@ -81,6 +81,46 @@ has_children: false
 
 <!-- Demonstrations -->
 
+- **Querying CIM, WMI and WQL**
+
+    ```powershell
+    # List all classes
+    Get-CimClass –Namespace root\CIMv2 | Sort CimClassName
+    Get-WmiObject -Namespace root\cimv2 –List |  Sort Name
+
+
+
+    # WMI
+    Get-CimClass Win32_Volume
+
+    # CIM
+    Get-CimClass CIM_storagevolume 
+
+
+    # View Services
+    Get-WmiObject –Class Win32_Service
+
+    # View Proccess
+    Get-CimInstance –ClassName Win32_Process
+
+
+    #Querying CIM
+
+    (Get-CimInstance -ClassName Cim_StorageVolume).where({$PSItem.DriveLetter -eq 'C:'})
+    
+    Get-CimInstance -ClassName CIM_StorageVolume | where driveletter -eq "C:"
+
+
+    # Querying CIM vs WMI
+    Get-CimInstance -ClassName Win32_LogicalDisk -ComputerName $env:COMPUTERNAME
+
+    Get-WmiObject -ClassName Win32_LogicalDisk -ComputerName $env:COMPUTERNAME
+
+    Get-CimInstance –Query "SELECT * FROM Win32_LogicalDisk WHERE DeviceID  = 'C:'"
+
+    Get-WmiObject –Query "SELECT * FROM Win32_LogicalDisk WHERE  DeviceID  = 'C:'"
+    ```
+
 
 <br/>
 
@@ -104,6 +144,32 @@ has_children: false
 ## Learning Path 07: Windows PowerShell scripting
 
 <!-- Demonstrations -->
+
+- **If Statement**
+    ```powershell
+    $x = 9
+    $y = 0
+
+
+    if ($x -lt $y)
+    {
+        Write-Host "OI"
+    }
+    else
+    {
+        Write-Error "Erro"
+    }
+    ```
+
+- **Function**
+
+    ```powershell
+    Function Get-ServerData
+    {
+        Param ($ComputerName)
+        Get-CimInstance -Class Win32_OperatingSystem -ComputerName $ComputerName
+    }
+    ```
 
 
 <br/>

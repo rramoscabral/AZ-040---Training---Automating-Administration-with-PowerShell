@@ -70,7 +70,7 @@ has_children: false
 | Lessons | Notes |
 | --- | ---
 | Review CIM and WMI | - [Distributed Management Task Force (DMTF)](https://www.dmtf.org/) |
-| Query configuration information by using CIM and WMI | -[Weekend Scripter: The WMI Explorer Tool](https://devblogs.microsoft.com/scripting/weekend-scripter-the-wmi-explorer-tool/) |
+| Query configuration information by using CIM and WMI | - [Weekend Scripter: The WMI Explorer Tool](https://devblogs.microsoft.com/scripting/weekend-scripter-the-wmi-explorer-tool/) |
 | Query and manipulate repository objects by using CIM and WMI methods |  |
 
 
@@ -91,11 +91,16 @@ has_children: false
 
 ## Learning Path 7: Windows PowerShell scripting
 
-<!--
+
 | Lessons | Notes |
-| --- | ---
 | --- | --- |
--->
+| Create and run scripts by using Windows PowerShell                                         | |                                    
+| Work with scripting constructs in Windows PowerShell                                       | - [foreach statemen](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_foreach) <br> - [if statement](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_if)  <br> - [switch statement](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_switch) | 
+| Import data in different formats for use in scripts by using Windows PowerShell cmdlets    | |
+| Use methods to accept user inputs in Windows PowerShell scripts                            | |
+| Troubleshoot scripts and handle errors in Windows PowerShell                               | |
+| Use functions and modules in Windows PowerShell scripts                                    | |
+
 
 
 <br/>
