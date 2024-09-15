@@ -25,7 +25,7 @@ has_children: false
 
 
 | Lessons | Notes |
-| --- | ---
+| --- | --- |
 | Review Windows PowerShell | - [PowerSell Release history](https://learn.microsoft.com/en-us/powershell/scripting/install/powershell-support-lifecycle#release-history) <br> - [PowerShell 7 cross-platform (Windows, Linux, and macOS)](https://github.com/PowerShell/PowerShell) <br> - [PowerShell in Visual Studio Code](https://code.visualstudio.com/docs/languages/powershell) |
 | Understand Windows PowerShell command syntax | - [About topics](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about) | 
 | Find commands and get help in Windows PowerShell |  - [PowerShell Gallery](https://www.powershellgallery.com/) | 
@@ -37,7 +37,7 @@ has_children: false
 
 <!--
 | Lessons | Notes |
-| --- | ---
+| --- | --- |
 | --- | --- |
 -->
 
@@ -47,7 +47,7 @@ has_children: false
 
 <!--
 | Lessons | Notes |
-| --- | ---
+| --- | --- |
 | --- | --- |
 -->
 
@@ -58,7 +58,7 @@ has_children: false
 
 <!--
 | Lessons | Notes |
-| --- | ---
+| --- | --- |
 | --- | --- |
 -->
 
@@ -68,7 +68,7 @@ has_children: false
 
 
 | Lessons | Notes |
-| --- | ---
+| --- | --- |
 | Review CIM and WMI | - [Distributed Management Task Force (DMTF)](https://www.dmtf.org/) |
 | Query configuration information by using CIM and WMI | - [Weekend Scripter: The WMI Explorer Tool](https://devblogs.microsoft.com/scripting/weekend-scripter-the-wmi-explorer-tool/) |
 | Query and manipulate repository objects by using CIM and WMI methods |  |
@@ -80,10 +80,10 @@ has_children: false
 ## Learning Path 6: Working with variables, arrays, and hash tables
 
 | Lessons | Notes |
-| --- | ---
-| Use variables in Window PowerShell scripts | | 
-| Manipulate variables in Window PowerShell scripts | | 
-| Work with arrays and hash tables in Window PowerShell scripts | | 
+| --- | --- |
+| Use variables in Window PowerShell scripts |  -- | 
+| Manipulate variables in Window PowerShell scripts |  -- | 
+| Work with arrays and hash tables in Window PowerShell scripts |  -- | 
 
 
 
@@ -94,12 +94,12 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Create and run scripts by using Windows PowerShell                                         | |                                    
+| Create and run scripts by using Windows PowerShell                                         |  -- |                                    
 | Work with scripting constructs in Windows PowerShell                                       | - [foreach statemen](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_foreach) <br> - [if statement](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_if)  <br> - [switch statement](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_switch) | 
-| Import data in different formats for use in scripts by using Windows PowerShell cmdlets    | |
-| Use methods to accept user inputs in Windows PowerShell scripts                            | |
-| Troubleshoot scripts and handle errors in Windows PowerShell                               | |
-| Use functions and modules in Windows PowerShell scripts                                    | |
+| Import data in different formats for use in scripts by using Windows PowerShell cmdlets    |  -- |
+| Use methods to accept user inputs in Windows PowerShell scripts                            |  -- |
+| Troubleshoot scripts and handle errors in Windows PowerShell                               |  -- |
+| Use functions and modules in Windows PowerShell scripts                                    |  -- |
 
 
 
@@ -108,7 +108,7 @@ has_children: false
 ## Learning Path 8 Administer remote computers with Windows PowerShell: 
 <!--
 | Lessons | Notes |
-| --- | ---
+| --- | --- |
 | --- | --- |
 -->
 
@@ -118,22 +118,37 @@ has_children: false
 
 ## Learning Path 9: Manage cloud resources by using Windows PowerShell
 
-<!--
+
 | Lessons | Notes |
-| --- | ---
 | --- | --- |
--->
+| Review the Azure PowerShell module | - [What is Azure PowerShell?](https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell) <br> - [Migrate Azure PowerShell from AzureRM to Az](https://learn.microsoft.com/en-us/powershell/azure/migrate-from-azurerm-to-az) <br> - [How to install Azure PowerShell](https://learn.microsoft.com/en-us/powershell/azure/install-azure-powershell)  <br> - [Microsoft Entra PowerShell documentation](https://learn.microsoft.com/en-us/powershell/entra-powershell/) |
+| Review the features and tools for Azure Cloud Shell | -- |
+| Manage Azure resources with Windows PowerShell | - [New-AzVM](https://learn.microsoft.com/en-us/powershell/module/az.compute/new-azvm) |
+
 
 
 <br/>
 
 ## Learning Path 10: Manage Microsoft 365 services by using Windows PowerShell
 
-<!--
+
 | Lessons | Notes |
-| --- | ---
 | --- | --- |
--->
+| Manage users, groups, and licenses in Microsoft Entra ID by using Windows PowerShell | 
+
+
+
+- [AzureAD PowerShell module](https://learn.microsoft.com/en-us/powershell/module/azuread)
+<br> - [MSOnline PowerShell module](https://learn.microsoft.com/en-us/powershell/module/MSOnline)
+<br> - [Microsoft Graph PowerShell documentation](https://learn.microsoft.com/en-us/powershell/microsoftgraph)
+<br> - 
+
+
+ |
+| Manage Exchange Online by using Windows PowerShell | -- |
+| Manage SharePoint Online by using Windows PowerShell | -- |
+| Manage Microsoft Teams by using Windows PowerShell | -- |
+
 
 
 <br/>
