@@ -134,21 +134,10 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Manage users, groups, and licenses in Microsoft Entra ID by using Windows PowerShell | 
-
-
-
-- [AzureAD PowerShell module](https://learn.microsoft.com/en-us/powershell/module/azuread)
-<br> - [MSOnline PowerShell module](https://learn.microsoft.com/en-us/powershell/module/MSOnline)
-<br> - [Microsoft Graph PowerShell documentation](https://learn.microsoft.com/en-us/powershell/microsoftgraph)
-<br> - 
-
-
- |
-| Manage Exchange Online by using Windows PowerShell | -- |
-| Manage SharePoint Online by using Windows PowerShell | -- |
-| Manage Microsoft Teams by using Windows PowerShell | -- |
-
+| Manage users, groups, and licenses in Microsoft Entra ID by using Windows PowerShell | - [AzureAD PowerShell module](https://learn.microsoft.com/en-us/powershell/module/azuread) <br> - [MSOnline PowerShell module](https://learn.microsoft.com/en-us/powershell/module/MSOnline) <br> - [Microsoft Graph PowerShell documentation](https://learn.microsoft.com/en-us/powershell/microsoftgraph) |
+| Manage Exchange Online by using Windows PowerShell | - [Connect to Exchange Online PowerShell](https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell) |
+| Manage SharePoint Online by using Windows PowerShell | -[Get started with SharePoint Online Management Shell](https://learn.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/connect-sharepoint-online) | 
+| Manage Microsoft Teams by using Windows PowerShell | [Install Microsoft Teams PowerShell Module](https://learn.microsoft.com/en-us/microsoftteams/teams-powershell-install) |
 
 
 <br/>
