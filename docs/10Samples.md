@@ -9,12 +9,12 @@ has_children: false
 {: .no_toc }
 
 
-<!-- 
+
 | Sample | Description |
 | --- | --- | 
-|  - - - | - - - |
+|  [PowerShell Gallery](https://www.powershellgallery.com/) | The central repository for sharing and acquiring PowerShell code including PowerShell modules, scripts, and DSC resources. |
 
--->
+
 
 
 <br/>

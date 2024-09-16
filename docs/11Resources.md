@@ -68,13 +68,27 @@ No content.
 
 ## Blogs
 
-No content.
-
-<!-- 
 | Blog | Description | 
 | --- | --- | 
-|- - - | - - - | - - - | - - -|
--->
+| [PowerShell Team Blog](https://devblogs.microsoft.com/powershell/) | The best resource for learning directly from the PowerShell product team. | 
+| [PowerShell Community Blog](https://devblogs.microsoft.com/powershell-community/) | Articles are scenario-driven. Written by the community, for the community. |
+
+
+
+<br/>
+
+##  PowerShell Community
+
+| Tech Community | Description | 
+| --- | --- | 
+| [PowerShell Tech Community](https://techcommunity.microsoft.com/t5/powershell/ct-p/WindowsPowerShell) |  Microsoft PowerShell Community discussion Space | 
+| [The DSC Community](https://dsccommunity.org/) | A collaborative community of authors and maintainers working to improve the DSC resources, their quality, and development practices. |
+| [PowerShell.org](https://forums.powershell.org/) |  PowerShell Help forums where experts and community contributors helps each other to learn and share knowledge. |
+| [[powershell] stackoverflow](https://stackoverflow.com/questions/tagged/powershell) | Questions about Windows administration tasks involving PowerShell should be asked on Super User or Server Fault. |
+| [r/PowerShell subreddit](https://www.reddit.com/r/PowerShell/?rdt=34094) | PowerShell at subreddit.  |
+| [PowerShell Discrod](https://discord.com/invite/powershell) | PowerShell Virtual User Group at Discord. |
+| [PowerShell Slack](https://powershell.slack.com/join/shared_invite/zt-11c5zb1qq-j2bbVD0x50sBwY1QTmYK~Q#/shared-invite/email) | PowerShell Virtual User Group at Slack. |
+
 
 
 
@@ -87,7 +101,7 @@ No content.
 <!-- 
 | Newsletter | Description | 
 | --- | --- | 
-|- - - | - - - | - - - | - - -|
+|- - - | - - - | 
 -->
 
 
