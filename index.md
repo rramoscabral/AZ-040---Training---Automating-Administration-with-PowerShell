@@ -42,7 +42,7 @@ This course provides students the skills to identify and build the command they 
 
 **Artificial intelligence (AI)**
 - [AI-050: Develop Generative AI Solutions with Azure OpenAI Service](https://ai-050.rramoscabral.com/)
-- [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://ai-102.rramoscabral.com/)
+- [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://ai102.rramoscabral.com/)
 
 
 **DevOps**
@@ -73,18 +73,22 @@ This course provides students the skills to identify and build the command they 
 - [M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint](https://m365sharepointpt.rramoscabral.com/)
 - [Microsoft SharePoint Power User: SharePoint Online Power User](http://msspopoweruser.rramoscabral.com/)
 
+
 **Microsoft Power Platform**
 - [PL-100: Microsoft Power Platform App Maker](https://pl-100.rramoscabral.com)
 - [PL-200: Microsoft Power Platform Functional Consultant](https://pl-200.rramoscabral.com)
 - [PL-400: Microsoft Power Platform Developer](https://pl-400.rramoscabral.com)
 
+
 **Microsoft PowerShell**
 - [AZ-040: Automating Administration with PowerShell](https://az040.rramoscabral.com/)
 - [Microsoft Windows PowerShell Training](https://github.com/rramoscabral/MSPowerShell---Training---Microsoft-Windows-PowerShell)
 
+
 **Microsoft SQL Server**
 - [DP-080: Querying Data with Microsoft Transact-SQL](https://dp-080.rramoscabral.com/)
 - [Fundamentos de SQL: Introdução aos Fundamentos de SQL com Transact-SQL](https://rramoscabral.github.io/Fundamentos-de-SQL/)
+
 
 **Microsoft Teams**
 - [MS-700: Managing Microsoft Teams](https://ms-700.rramoscabral.com/)
