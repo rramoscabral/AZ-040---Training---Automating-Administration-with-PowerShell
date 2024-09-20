@@ -10,7 +10,7 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 It is designed for IT Professionals  with the fundamental knowledge and skills to use PowerShell for administering and automating administration of Windows servers
 
-The Course **AZ-040T00-A** is developed by the **Microsoft Learning** nd replace the retired Microsoft course **10961C: Automating Administration with Windows Powershell**.
+The Course **AZ-040T00-A** is developed by the **Microsoft Learning** and replace the retired Microsoft course **10961C: Automating Administration with Windows Powershell**.
 
 <br/>
 
